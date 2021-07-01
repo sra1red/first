@@ -1,2 +1,6 @@
 Chess is mind game which is popular in most of the countries.
 It is played by 2 players.
+Description:
+Chess board has 8*8 squares which are black and white square boxes.
+The two players need to choose either black or white side.
+Their are 16 white and black piecies for each side and players need to play with them using their statistics. 
